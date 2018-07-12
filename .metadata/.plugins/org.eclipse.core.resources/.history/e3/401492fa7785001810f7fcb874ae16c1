@@ -1,0 +1,16 @@
+package cl.tutorial.java;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class LambdaApp {
+
+	public  void ordenar(){
+		List<String>lista=new ArrayList<String>();
+		lista.add("trabajo");
+		lista.add("axity");
+		lista.add("vass");
+	}
+	
+	
+}

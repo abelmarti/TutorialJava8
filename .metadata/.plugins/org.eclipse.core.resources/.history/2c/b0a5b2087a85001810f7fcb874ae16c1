@@ -1,0 +1,5 @@
+package cl.tutorial.interfaces;
+
+public interface Operacion {
+
+}
